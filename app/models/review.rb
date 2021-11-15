@@ -12,5 +12,4 @@ class Review < ApplicationRecord
   def to_s
     review
   end
-
 end
